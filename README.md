@@ -9,12 +9,21 @@
 <p> - Rails v6.1.3.2</p>
 <p> - gem v3.1.6</p>
 
+<h2 >Porta padrão</h2>
+<p>A porta padrão da aplicação é a 3000.</p>
+
 
 <h2 >Rotas</h2>
 <p> - 1 - http://Base-URL/proximo : Acessa os dados do próximo lançamento da SpaceX</p>
 <p> - 2 - http://Base-URL/ultimo : Acessa os dados do último lançamento da SpaceX</p>
 <p> - 3 - http://Base-URL/proximos : Acessa os dados dos próximos lançamentos da SpaceX</p>
 <p> - 4 - http://Base-URL/passados : Acessa os dados dos lançamentos passados da SpaceX</p>
+
+<h2 >Status do Projeto</h2>
+<p> O projeto está na fase do Teste de aceitação :)</p>
+
+<h2 >Autor</h2>
+<p>Ricardo Schleder Tozetto</p>
 
 
 
