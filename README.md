@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h1 align="center">Challenge-API</h1>>
+<p align="center">Esta é uma API simples escrita em Ruby on Rails para consumir a API da SpaceX e apresentar os dados pertinentes para serem mostrados em uma interface de Frontend.</p>
