@@ -5,7 +5,7 @@
 
 # r/SpaceX API V4 Docs
 
-[![Testar no Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/ed977a9a6ef986767dd6)
+[![Testar no Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/ed977a9a6ef986767dd6)
 
 
 <h2 >Versões utilizadas</h2>
