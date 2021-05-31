@@ -3,7 +3,7 @@
 <h1 align="center">Challenge-API</h1>
 <p>Esta é uma API simples escrita em Ruby on Rails para consumir a API da SpaceX (v4) e apresentar os dados pertinentes para serem mostrados em uma interface de Frontend.</p>
 
-# r/SpaceX API V4 Docs
+# challenge-API
 
 [![Testar no Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/ed977a9a6ef986767dd6)
 
