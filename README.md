@@ -10,7 +10,7 @@
 <p> - gem v3.1.6</p>
 
 <h2 >Porta padrão</h2>
-<p>A porta padrão da aplicação é a 3000.</p>
+<p>A porta padrão da aplicação é normalmente a 3000.</p>
 
 
 <h2 >Rotas</h2>
@@ -18,6 +18,9 @@
 <p> - 2 - http://Base-URL/ultimo : Acessa os dados do último lançamento da SpaceX</p>
 <p> - 3 - http://Base-URL/proximos : Acessa os dados dos próximos lançamentos da SpaceX</p>
 <p> - 4 - http://Base-URL/passados : Acessa os dados dos lançamentos passados da SpaceX</p>
+
+<h2 >CORS</h2>
+<p> Foi habilitado o CORS no projeto.</p>
 
 <h2 >Status do Projeto</h2>
 <p> O projeto está na fase do Teste de aceitação :)</p>
